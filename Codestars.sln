@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Codestars_04", "Codestars_0
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Codestars_05", "Codestars_05\Codestars_05.csproj", "{B470BCBA-5D2A-4D71-A67C-38EB37CA9570}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Codestars_06", "Codestars_06\Codestars_06.csproj", "{64A0AB1B-22CF-4758-8A61-C57633ED3694}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{B470BCBA-5D2A-4D71-A67C-38EB37CA9570}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B470BCBA-5D2A-4D71-A67C-38EB37CA9570}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B470BCBA-5D2A-4D71-A67C-38EB37CA9570}.Release|Any CPU.Build.0 = Release|Any CPU
+		{64A0AB1B-22CF-4758-8A61-C57633ED3694}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64A0AB1B-22CF-4758-8A61-C57633ED3694}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64A0AB1B-22CF-4758-8A61-C57633ED3694}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64A0AB1B-22CF-4758-8A61-C57633ED3694}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
